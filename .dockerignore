@@ -1,0 +1,6 @@
+.DS_Store
+_.*
+mhcmp_pso/*/_.*
+mhcmp_pso/*/.*
+mhcmp_pso/_.*
+mhcmp_pso/.*
